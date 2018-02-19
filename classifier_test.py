@@ -7,7 +7,6 @@ quantity.
 Alejandro Sanchez
 Carnegie Mellon University
 Feb 9, 2018
-test
 '''
 from __future__ import division, print_function
 import sys, csv
